@@ -1,0 +1,25 @@
+D:\programare\internet break\ANOTHER APROACH\usable versions\Communication\Communication\bin\Debug\Communication.dll
+D:\programare\internet break\ANOTHER APROACH\usable versions\Communication\Communication\bin\Debug\Communication.pdb
+D:\programare\internet break\ANOTHER APROACH\usable versions\Communication\Communication\obj\Debug\Communication.dll
+D:\programare\internet break\ANOTHER APROACH\usable versions\Communication\Communication\obj\Debug\Communication.pdb
+D:\programare\internet break\ANOTHER APROACH\usable versions 1\Communication\Communication\bin\Debug\Communication.dll
+D:\programare\internet break\ANOTHER APROACH\usable versions 1\Communication\Communication\bin\Debug\Communication.pdb
+D:\programare\internet break\ANOTHER APROACH\usable versions 1\Communication\Communication\obj\Debug\Communication.csproj.CoreCompileInputs.cache
+D:\programare\internet break\ANOTHER APROACH\usable versions 1\Communication\Communication\obj\Debug\Communication.dll
+D:\programare\internet break\ANOTHER APROACH\usable versions 1\Communication\Communication\obj\Debug\Communication.pdb
+D:\programare\internet break\ANOTHER APROACH\usable versions 1\Communication\Communication\obj\Debug\Communication.csprojResolveAssemblyReference.cache
+C:\Users\Paul\source\repos\Communication\Communication\bin\Debug\Communication.dll
+C:\Users\Paul\source\repos\Communication\Communication\bin\Debug\Communication.pdb
+C:\Users\Paul\source\repos\Communication\Communication\obj\Debug\Communication.csproj.CoreCompileInputs.cache
+C:\Users\Paul\source\repos\Communication\Communication\obj\Debug\Communication.dll
+C:\Users\Paul\source\repos\Communication\Communication\obj\Debug\Communication.pdb
+C:\Users\Paul\source\repos\Communication v1\Communication\obj\Debug\Communication.csproj.CoreCompileInputs.cache
+C:\Users\Paul\source\repos\Communication v1\Communication\bin\Debug\Communication.dll
+C:\Users\Paul\source\repos\Communication v1\Communication\bin\Debug\Communication.pdb
+C:\Users\Paul\source\repos\Communication v1\Communication\bin\Debug\Cryptography.dll
+C:\Users\Paul\source\repos\Communication v1\Communication\bin\Debug\Cryptography.pdb
+C:\Users\Paul\source\repos\Communication v1\Communication\obj\Debug\Communication.dll
+C:\Users\Paul\source\repos\Communication v1\Communication\obj\Debug\Communication.pdb
+C:\Users\Paul\source\repos\Communication v1\Communication\obj\Debug\Communication.csprojResolveAssemblyReference.cache
+C:\Users\Paul\source\repos\Communication v1\Communication\obj\Debug\Communication.Resources.resources
+C:\Users\Paul\source\repos\Communication v1\Communication\obj\Debug\Communication.csproj.GenerateResource.Cache

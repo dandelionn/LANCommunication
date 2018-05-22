@@ -1,0 +1,7 @@
+C:\Users\Paul\source\repos\Communication v1\ContactListScrollbar\bin\Debug\ContactListScrollbar.dll
+C:\Users\Paul\source\repos\Communication v1\ContactListScrollbar\bin\Debug\ContactListScrollbar.pdb
+C:\Users\Paul\source\repos\Communication v1\ContactListScrollbar\obj\Debug\ContactListScrollbar.ImageResource.resources
+C:\Users\Paul\source\repos\Communication v1\ContactListScrollbar\obj\Debug\ContactListScrollbar.csproj.GenerateResource.Cache
+C:\Users\Paul\source\repos\Communication v1\ContactListScrollbar\obj\Debug\ContactListScrollbar.csproj.CoreCompileInputs.cache
+C:\Users\Paul\source\repos\Communication v1\ContactListScrollbar\obj\Debug\ContactListScrollbar.dll
+C:\Users\Paul\source\repos\Communication v1\ContactListScrollbar\obj\Debug\ContactListScrollbar.pdb

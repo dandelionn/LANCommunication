@@ -1,0 +1,60 @@
+D:\programare\internet break\ANOTHER APROACH\usable versions\Communication\TestAppServer\bin\Debug\TestAppServer.exe.config
+D:\programare\internet break\ANOTHER APROACH\usable versions\Communication\TestAppServer\bin\Debug\TestAppServer.exe
+D:\programare\internet break\ANOTHER APROACH\usable versions\Communication\TestAppServer\bin\Debug\TestAppServer.pdb
+D:\programare\internet break\ANOTHER APROACH\usable versions\Communication\TestAppServer\bin\Debug\Communication.dll
+D:\programare\internet break\ANOTHER APROACH\usable versions\Communication\TestAppServer\bin\Debug\Communication.pdb
+D:\programare\internet break\ANOTHER APROACH\usable versions\Communication\TestAppServer\obj\Debug\TestAppServer.Form1.resources
+D:\programare\internet break\ANOTHER APROACH\usable versions\Communication\TestAppServer\obj\Debug\TestAppServer.Properties.Resources.resources
+D:\programare\internet break\ANOTHER APROACH\usable versions\Communication\TestAppServer\obj\Debug\TestAppServer.csproj.GenerateResource.Cache
+D:\programare\internet break\ANOTHER APROACH\usable versions\Communication\TestAppServer\obj\Debug\TestAppServer.exe
+D:\programare\internet break\ANOTHER APROACH\usable versions\Communication\TestAppServer\obj\Debug\TestAppServer.pdb
+D:\programare\internet break\ANOTHER APROACH\usable versions\Communication\TestAppServer\obj\Debug\TestAppServer.csprojResolveAssemblyReference.cache
+D:\programare\internet break\ANOTHER APROACH\usable versions 1\Communication\TestAppServer\bin\Debug\TestAppServer.exe.config
+D:\programare\internet break\ANOTHER APROACH\usable versions 1\Communication\TestAppServer\obj\Debug\TestAppServer.exe
+D:\programare\internet break\ANOTHER APROACH\usable versions 1\Communication\TestAppServer\obj\Debug\TestAppServer.pdb
+D:\programare\internet break\ANOTHER APROACH\usable versions 1\Communication\TestAppServer\bin\Debug\TestAppServer.exe
+D:\programare\internet break\ANOTHER APROACH\usable versions 1\Communication\TestAppServer\bin\Debug\TestAppServer.pdb
+D:\programare\internet break\ANOTHER APROACH\usable versions 1\Communication\TestAppServer\bin\Debug\Communication.dll
+D:\programare\internet break\ANOTHER APROACH\usable versions 1\Communication\TestAppServer\bin\Debug\Communication.pdb
+D:\programare\internet break\ANOTHER APROACH\usable versions 1\Communication\TestAppServer\obj\Debug\TestAppServer.csprojResolveAssemblyReference.cache
+D:\programare\internet break\ANOTHER APROACH\usable versions 1\Communication\TestAppServer\obj\Debug\TestAppServer.Properties.Resources.resources
+D:\programare\internet break\ANOTHER APROACH\usable versions 1\Communication\TestAppServer\obj\Debug\TestAppServer.csproj.GenerateResource.Cache
+D:\programare\internet break\ANOTHER APROACH\usable versions 1\Communication\TestAppServer\obj\Debug\TestAppServer.csproj.CoreCompileInputs.cache
+D:\programare\internet break\ANOTHER APROACH\usable versions 1\Communication\TestAppServer\obj\Debug\TestAppServer.ServerForm.resources
+C:\Users\Paul\source\repos\Communication\TestAppServer\bin\Debug\TestAppServer.exe.config
+C:\Users\Paul\source\repos\Communication\TestAppServer\bin\Debug\TestAppServer.exe
+C:\Users\Paul\source\repos\Communication\TestAppServer\bin\Debug\Communication.dll
+C:\Users\Paul\source\repos\Communication\TestAppServer\bin\Debug\Communication.pdb
+C:\Users\Paul\source\repos\Communication\TestAppServer\obj\Debug\TestAppServer.Properties.Resources.resources
+C:\Users\Paul\source\repos\Communication\TestAppServer\obj\Debug\TestAppServer.ServerForm.resources
+C:\Users\Paul\source\repos\Communication\TestAppServer\obj\Debug\TestAppServer.csproj.GenerateResource.Cache
+C:\Users\Paul\source\repos\Communication\TestAppServer\obj\Debug\TestAppServer.csproj.CoreCompileInputs.cache
+C:\Users\Paul\source\repos\Communication\TestAppServer\obj\Debug\TestAppServer.exe
+C:\Users\Paul\source\repos\Communication\TestAppServer\obj\Debug\TestAppServer.pdb
+C:\Users\Paul\source\repos\Communication\TestAppServer\bin\Debug\TestAppServer.pdb
+C:\Users\Paul\source\repos\Communication\TestAppServer\obj\Debug\TestAppServer.csprojResolveAssemblyReference.cache
+C:\Users\Paul\source\repos\Communication v1\TestAppServer\bin\Debug\TestAppServer.exe.config
+C:\Users\Paul\source\repos\Communication v1\TestAppServer\bin\Debug\TestAppServer.exe
+C:\Users\Paul\source\repos\Communication v1\TestAppServer\bin\Debug\TestAppServer.pdb
+C:\Users\Paul\source\repos\Communication v1\TestAppServer\bin\Debug\ChatBox.dll
+C:\Users\Paul\source\repos\Communication v1\TestAppServer\bin\Debug\Communication.dll
+C:\Users\Paul\source\repos\Communication v1\TestAppServer\bin\Debug\ContactList.dll
+C:\Users\Paul\source\repos\Communication v1\TestAppServer\bin\Debug\ContactListScrollbar.dll
+C:\Users\Paul\source\repos\Communication v1\TestAppServer\bin\Debug\MessageBox.dll
+C:\Users\Paul\source\repos\Communication v1\TestAppServer\bin\Debug\Cryptography.dll
+C:\Users\Paul\source\repos\Communication v1\TestAppServer\bin\Debug\ChatBoxScrollbar.dll
+C:\Users\Paul\source\repos\Communication v1\TestAppServer\bin\Debug\ChatBox.pdb
+C:\Users\Paul\source\repos\Communication v1\TestAppServer\bin\Debug\ContactList.pdb
+C:\Users\Paul\source\repos\Communication v1\TestAppServer\bin\Debug\Communication.pdb
+C:\Users\Paul\source\repos\Communication v1\TestAppServer\bin\Debug\ContactListScrollbar.pdb
+C:\Users\Paul\source\repos\Communication v1\TestAppServer\bin\Debug\MessageBox.pdb
+C:\Users\Paul\source\repos\Communication v1\TestAppServer\bin\Debug\Cryptography.pdb
+C:\Users\Paul\source\repos\Communication v1\TestAppServer\bin\Debug\ChatBoxScrollbar.pdb
+C:\Users\Paul\source\repos\Communication v1\TestAppServer\obj\Debug\TestAppServer.csprojResolveAssemblyReference.cache
+C:\Users\Paul\source\repos\Communication v1\TestAppServer\obj\Debug\TestAppServer.Properties.Resources.resources
+C:\Users\Paul\source\repos\Communication v1\TestAppServer\obj\Debug\TestAppServer.ServerForm.resources
+C:\Users\Paul\source\repos\Communication v1\TestAppServer\obj\Debug\TestAppServer.csproj.GenerateResource.Cache
+C:\Users\Paul\source\repos\Communication v1\TestAppServer\obj\Debug\TestAppServer.csproj.CoreCompileInputs.cache
+C:\Users\Paul\source\repos\Communication v1\TestAppServer\obj\Debug\TestAppServer.exe
+C:\Users\Paul\source\repos\Communication v1\TestAppServer\obj\Debug\TestAppServer.pdb
+C:\Users\Paul\source\repos\Communication v1\TestAppServer\obj\Debug\TestAppServer.Resources.resources

@@ -1,0 +1,36 @@
+D:\programare\WPF a new beggining\syncronized scrolls\CodeEditor\CodeEditor\CodeEditor\bin\Debug\CodeEditor.dll
+D:\programare\WPF a new beggining\syncronized scrolls\CodeEditor\CodeEditor\CodeEditor\bin\Debug\CodeEditor.pdb
+D:\programare\WPF a new beggining\syncronized scrolls\CodeEditor\CodeEditor\CodeEditor\bin\Debug\AdvancedHScrollbar.dll
+D:\programare\WPF a new beggining\syncronized scrolls\CodeEditor\CodeEditor\CodeEditor\bin\Debug\AdvancedVScrollbar.dll
+D:\programare\WPF a new beggining\syncronized scrolls\CodeEditor\CodeEditor\CodeEditor\bin\Debug\AdvancedHScrollbar.pdb
+D:\programare\WPF a new beggining\syncronized scrolls\CodeEditor\CodeEditor\CodeEditor\bin\Debug\AdvancedVScrollbar.pdb
+D:\programare\WPF a new beggining\syncronized scrolls\CodeEditor\CodeEditor\CodeEditor\obj\Debug\CodeEditor.csprojResolveAssemblyReference.cache
+D:\programare\WPF a new beggining\syncronized scrolls\CodeEditor\CodeEditor\CodeEditor\obj\Debug\CodeEditor.CodeEditor.resources
+D:\programare\WPF a new beggining\syncronized scrolls\CodeEditor\CodeEditor\CodeEditor\obj\Debug\CodeEditor.csproj.GenerateResource.Cache
+D:\programare\WPF a new beggining\syncronized scrolls\CodeEditor\CodeEditor\CodeEditor\obj\Debug\CodeEditor.dll
+D:\programare\WPF a new beggining\syncronized scrolls\CodeEditor\CodeEditor\CodeEditor\obj\Debug\CodeEditor.pdb
+D:\programare\WPF a new beggining\syncronized scrolls\CodeEditor\CodeEditor\CodeEditor\obj\Debug\CodeEditor.Properties.Resources.resources
+D:\programare\WPF\syncronized scrolls\CodeEditor\Backup\CodeEditor(no lineNumbering or extra lateral lines)\CodeEditor\bin\Debug\CodeEditor.dll
+D:\programare\WPF\syncronized scrolls\CodeEditor\Backup\CodeEditor(no lineNumbering or extra lateral lines)\CodeEditor\bin\Debug\CodeEditor.pdb
+D:\programare\WPF\syncronized scrolls\CodeEditor\Backup\CodeEditor(no lineNumbering or extra lateral lines)\CodeEditor\bin\Debug\AdvancedHScrollbar.dll
+D:\programare\WPF\syncronized scrolls\CodeEditor\Backup\CodeEditor(no lineNumbering or extra lateral lines)\CodeEditor\bin\Debug\AdvancedVScrollbar.dll
+D:\programare\WPF\syncronized scrolls\CodeEditor\Backup\CodeEditor(no lineNumbering or extra lateral lines)\CodeEditor\bin\Debug\AdvancedHScrollbar.pdb
+D:\programare\WPF\syncronized scrolls\CodeEditor\Backup\CodeEditor(no lineNumbering or extra lateral lines)\CodeEditor\bin\Debug\AdvancedVScrollbar.pdb
+D:\programare\WPF\syncronized scrolls\CodeEditor\Backup\CodeEditor(no lineNumbering or extra lateral lines)\CodeEditor\obj\Debug\CodeEditor.csprojResolveAssemblyReference.cache
+D:\programare\WPF\syncronized scrolls\CodeEditor\Backup\CodeEditor(no lineNumbering or extra lateral lines)\CodeEditor\obj\Debug\CodeEditor.CodeEditor.resources
+D:\programare\WPF\syncronized scrolls\CodeEditor\Backup\CodeEditor(no lineNumbering or extra lateral lines)\CodeEditor\obj\Debug\CodeEditor.Properties.Resources.resources
+D:\programare\WPF\syncronized scrolls\CodeEditor\Backup\CodeEditor(no lineNumbering or extra lateral lines)\CodeEditor\obj\Debug\CodeEditor.csproj.GenerateResource.Cache
+D:\programare\WPF\syncronized scrolls\CodeEditor\Backup\CodeEditor(no lineNumbering or extra lateral lines)\CodeEditor\obj\Debug\CodeEditor.dll
+D:\programare\WPF\syncronized scrolls\CodeEditor\Backup\CodeEditor(no lineNumbering or extra lateral lines)\CodeEditor\obj\Debug\CodeEditor.pdb
+D:\programare\WPF\syncronized scrolls\CodeEditor\editor with vertical scrollbar\old, do not use\CodeEditor(no lineNumbering or extra lateral lines)\CodeEditor\obj\Debug\CodeEditor.CodeEditor.resources
+D:\programare\WPF\syncronized scrolls\CodeEditor\editor with vertical scrollbar\old, do not use\CodeEditor(no lineNumbering or extra lateral lines)\CodeEditor\obj\Debug\CodeEditor.Properties.Resources.resources
+D:\programare\WPF\syncronized scrolls\CodeEditor\editor with vertical scrollbar\old, do not use\CodeEditor(no lineNumbering or extra lateral lines)\CodeEditor\obj\Debug\CodeEditor.csproj.GenerateResource.Cache
+D:\programare\WPF\syncronized scrolls\CodeEditor\editor with vertical scrollbar\old, do not use\CodeEditor(no lineNumbering or extra lateral lines)\CodeEditor\obj\Debug\CodeEditor.dll
+D:\programare\WPF\syncronized scrolls\CodeEditor\editor with vertical scrollbar\old, do not use\CodeEditor(no lineNumbering or extra lateral lines)\CodeEditor\obj\Debug\CodeEditor.pdb
+D:\programare\WPF\syncronized scrolls\CodeEditor\editor with vertical scrollbar\old, do not use\CodeEditor(no lineNumbering or extra lateral lines)\CodeEditor\bin\Debug\CodeEditor.dll
+D:\programare\WPF\syncronized scrolls\CodeEditor\editor with vertical scrollbar\old, do not use\CodeEditor(no lineNumbering or extra lateral lines)\CodeEditor\bin\Debug\CodeEditor.pdb
+D:\programare\WPF\syncronized scrolls\CodeEditor\editor with vertical scrollbar\old, do not use\CodeEditor(no lineNumbering or extra lateral lines)\CodeEditor\bin\Debug\AdvancedHScrollbar.dll
+D:\programare\WPF\syncronized scrolls\CodeEditor\editor with vertical scrollbar\old, do not use\CodeEditor(no lineNumbering or extra lateral lines)\CodeEditor\bin\Debug\AdvancedVScrollbar.dll
+D:\programare\WPF\syncronized scrolls\CodeEditor\editor with vertical scrollbar\old, do not use\CodeEditor(no lineNumbering or extra lateral lines)\CodeEditor\bin\Debug\AdvancedHScrollbar.pdb
+D:\programare\WPF\syncronized scrolls\CodeEditor\editor with vertical scrollbar\old, do not use\CodeEditor(no lineNumbering or extra lateral lines)\CodeEditor\bin\Debug\AdvancedVScrollbar.pdb
+D:\programare\WPF\syncronized scrolls\CodeEditor\editor with vertical scrollbar\old, do not use\CodeEditor(no lineNumbering or extra lateral lines)\CodeEditor\obj\Debug\CodeEditor.csprojResolveAssemblyReference.cache

@@ -1,0 +1,37 @@
+D:\programare\internet break\ChatBox\ChatBox\bin\Debug\ChatBox.dll
+D:\programare\internet break\ChatBox\ChatBox\bin\Debug\ChatBox.pdb
+D:\programare\internet break\ChatBox\ChatBox\bin\Debug\MessageBox.dll
+D:\programare\internet break\ChatBox\ChatBox\bin\Debug\MessageBox.pdb
+D:\programare\internet break\ChatBox\ChatBox\obj\Debug\ChatBox.ChatBox.resources
+D:\programare\internet break\ChatBox\ChatBox\obj\Debug\ChatBox.EmotionImage24x24.resources
+D:\programare\internet break\ChatBox\ChatBox\obj\Debug\ChatBox.csproj.GenerateResource.Cache
+D:\programare\internet break\ChatBox\ChatBox\obj\Debug\ChatBox.dll
+D:\programare\internet break\ChatBox\ChatBox\obj\Debug\ChatBox.pdb
+D:\programare\internet break\ChatBox\ChatBox\bin\Debug\ChatBoxScrollbar.dll
+D:\programare\internet break\ChatBox\ChatBox\bin\Debug\ChatBoxScrollbar.pdb
+D:\programare\internet break\ChatBox\ChatBox\obj\Debug\ChatBox.csprojResolveAssemblyReference.cache
+D:\programare\PROJECT ALIEN MERCURY\SharedDoc\ChatBox\obj\Debug\ChatBox.ChatBox.resources
+D:\programare\PROJECT ALIEN MERCURY\SharedDoc\ChatBox\obj\Debug\ChatBox.EmotionImage24x24.resources
+D:\programare\PROJECT ALIEN MERCURY\SharedDoc\ChatBox\obj\Debug\ChatBox.csproj.GenerateResource.Cache
+D:\programare\PROJECT ALIEN MERCURY\SharedDoc\ChatBox\bin\Debug\ChatBox.dll
+D:\programare\PROJECT ALIEN MERCURY\SharedDoc\ChatBox\bin\Debug\ChatBox.pdb
+D:\programare\PROJECT ALIEN MERCURY\SharedDoc\ChatBox\bin\Debug\ChatBoxScrollbar.dll
+D:\programare\PROJECT ALIEN MERCURY\SharedDoc\ChatBox\bin\Debug\MessageBox.dll
+D:\programare\PROJECT ALIEN MERCURY\SharedDoc\ChatBox\bin\Debug\ChatBoxScrollbar.pdb
+D:\programare\PROJECT ALIEN MERCURY\SharedDoc\ChatBox\bin\Debug\MessageBox.pdb
+D:\programare\PROJECT ALIEN MERCURY\SharedDoc\ChatBox\obj\Debug\ChatBox.dll
+D:\programare\PROJECT ALIEN MERCURY\SharedDoc\ChatBox\obj\Debug\ChatBox.pdb
+D:\programare\PROJECT ALIEN MERCURY\SharedDoc\ChatBox\obj\Debug\ChatBox.csprojResolveAssemblyReference.cache
+C:\Users\Paul\source\repos\Communication v1\ChatBox\bin\Debug\ChatBox.dll
+C:\Users\Paul\source\repos\Communication v1\ChatBox\bin\Debug\ChatBox.pdb
+C:\Users\Paul\source\repos\Communication v1\ChatBox\bin\Debug\ChatBoxScrollbar.dll
+C:\Users\Paul\source\repos\Communication v1\ChatBox\bin\Debug\MessageBox.dll
+C:\Users\Paul\source\repos\Communication v1\ChatBox\bin\Debug\ChatBoxScrollbar.pdb
+C:\Users\Paul\source\repos\Communication v1\ChatBox\bin\Debug\MessageBox.pdb
+C:\Users\Paul\source\repos\Communication v1\ChatBox\obj\Debug\ChatBox.ChatBox.resources
+C:\Users\Paul\source\repos\Communication v1\ChatBox\obj\Debug\ChatBox.EmotionImage24x24.resources
+C:\Users\Paul\source\repos\Communication v1\ChatBox\obj\Debug\ChatBox.csproj.GenerateResource.Cache
+C:\Users\Paul\source\repos\Communication v1\ChatBox\obj\Debug\ChatBox.csproj.CoreCompileInputs.cache
+C:\Users\Paul\source\repos\Communication v1\ChatBox\obj\Debug\ChatBox.dll
+C:\Users\Paul\source\repos\Communication v1\ChatBox\obj\Debug\ChatBox.pdb
+C:\Users\Paul\source\repos\Communication v1\ChatBox\obj\Debug\ChatBox.csprojResolveAssemblyReference.cache

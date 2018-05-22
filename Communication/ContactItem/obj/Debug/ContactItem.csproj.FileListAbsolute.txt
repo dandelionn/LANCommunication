@@ -1,0 +1,7 @@
+C:\Users\Paul\source\repos\Communication v1\ContactItem\bin\Debug\ContactItem.dll
+C:\Users\Paul\source\repos\Communication v1\ContactItem\bin\Debug\ContactItem.pdb
+C:\Users\Paul\source\repos\Communication v1\ContactItem\obj\Debug\ContactItem.ContactItem.resources
+C:\Users\Paul\source\repos\Communication v1\ContactItem\obj\Debug\ContactItem.csproj.GenerateResource.Cache
+C:\Users\Paul\source\repos\Communication v1\ContactItem\obj\Debug\ContactItem.csproj.CoreCompileInputs.cache
+C:\Users\Paul\source\repos\Communication v1\ContactItem\obj\Debug\ContactItem.dll
+C:\Users\Paul\source\repos\Communication v1\ContactItem\obj\Debug\ContactItem.pdb

@@ -1,0 +1,59 @@
+D:\programare\internet break\ANOTHER APROACH\usable versions\Communication\TestAppClient\bin\Debug\TestAppClient.exe.config
+D:\programare\internet break\ANOTHER APROACH\usable versions\Communication\TestAppClient\obj\Debug\TestAppClient.Form1.resources
+D:\programare\internet break\ANOTHER APROACH\usable versions\Communication\TestAppClient\obj\Debug\TestAppClient.Properties.Resources.resources
+D:\programare\internet break\ANOTHER APROACH\usable versions\Communication\TestAppClient\obj\Debug\TestAppClient.csproj.GenerateResource.Cache
+D:\programare\internet break\ANOTHER APROACH\usable versions\Communication\TestAppClient\bin\Debug\TestAppClient.exe
+D:\programare\internet break\ANOTHER APROACH\usable versions\Communication\TestAppClient\bin\Debug\TestAppClient.pdb
+D:\programare\internet break\ANOTHER APROACH\usable versions\Communication\TestAppClient\bin\Debug\Communication.dll
+D:\programare\internet break\ANOTHER APROACH\usable versions\Communication\TestAppClient\bin\Debug\Communication.pdb
+D:\programare\internet break\ANOTHER APROACH\usable versions\Communication\TestAppClient\obj\Debug\TestAppClient.exe
+D:\programare\internet break\ANOTHER APROACH\usable versions\Communication\TestAppClient\obj\Debug\TestAppClient.pdb
+D:\programare\internet break\ANOTHER APROACH\usable versions\Communication\TestAppClient\obj\Debug\TestAppClient.csprojResolveAssemblyReference.cache
+D:\programare\internet break\ANOTHER APROACH\usable versions 1\Communication\TestAppClient\bin\Debug\TestAppClient.exe.config
+D:\programare\internet break\ANOTHER APROACH\usable versions 1\Communication\TestAppClient\bin\Debug\TestAppClient.exe
+D:\programare\internet break\ANOTHER APROACH\usable versions 1\Communication\TestAppClient\bin\Debug\TestAppClient.pdb
+D:\programare\internet break\ANOTHER APROACH\usable versions 1\Communication\TestAppClient\bin\Debug\Communication.dll
+D:\programare\internet break\ANOTHER APROACH\usable versions 1\Communication\TestAppClient\bin\Debug\Communication.pdb
+D:\programare\internet break\ANOTHER APROACH\usable versions 1\Communication\TestAppClient\obj\Debug\TestAppClient.csprojResolveAssemblyReference.cache
+D:\programare\internet break\ANOTHER APROACH\usable versions 1\Communication\TestAppClient\obj\Debug\TestAppClient.Properties.Resources.resources
+D:\programare\internet break\ANOTHER APROACH\usable versions 1\Communication\TestAppClient\obj\Debug\TestAppClient.csproj.GenerateResource.Cache
+D:\programare\internet break\ANOTHER APROACH\usable versions 1\Communication\TestAppClient\obj\Debug\TestAppClient.csproj.CoreCompileInputs.cache
+D:\programare\internet break\ANOTHER APROACH\usable versions 1\Communication\TestAppClient\obj\Debug\TestAppClient.exe
+D:\programare\internet break\ANOTHER APROACH\usable versions 1\Communication\TestAppClient\obj\Debug\TestAppClient.pdb
+D:\programare\internet break\ANOTHER APROACH\usable versions 1\Communication\TestAppClient\obj\Debug\TestAppClient.ClientForm.resources
+C:\Users\Paul\source\repos\Communication\TestAppClient\bin\Debug\TestAppClient.exe.config
+C:\Users\Paul\source\repos\Communication\TestAppClient\bin\Debug\TestAppClient.exe
+C:\Users\Paul\source\repos\Communication\TestAppClient\bin\Debug\TestAppClient.pdb
+C:\Users\Paul\source\repos\Communication\TestAppClient\bin\Debug\Communication.dll
+C:\Users\Paul\source\repos\Communication\TestAppClient\bin\Debug\Communication.pdb
+C:\Users\Paul\source\repos\Communication\TestAppClient\obj\Debug\TestAppClient.ClientForm.resources
+C:\Users\Paul\source\repos\Communication\TestAppClient\obj\Debug\TestAppClient.Properties.Resources.resources
+C:\Users\Paul\source\repos\Communication\TestAppClient\obj\Debug\TestAppClient.csproj.GenerateResource.Cache
+C:\Users\Paul\source\repos\Communication\TestAppClient\obj\Debug\TestAppClient.csproj.CoreCompileInputs.cache
+C:\Users\Paul\source\repos\Communication\TestAppClient\obj\Debug\TestAppClient.exe
+C:\Users\Paul\source\repos\Communication\TestAppClient\obj\Debug\TestAppClient.pdb
+C:\Users\Paul\source\repos\Communication v1\TestAppClient\bin\Debug\TestAppClient.exe.config
+C:\Users\Paul\source\repos\Communication v1\TestAppClient\bin\Debug\TestAppClient.exe
+C:\Users\Paul\source\repos\Communication v1\TestAppClient\bin\Debug\TestAppClient.pdb
+C:\Users\Paul\source\repos\Communication v1\TestAppClient\bin\Debug\ChatBox.dll
+C:\Users\Paul\source\repos\Communication v1\TestAppClient\bin\Debug\ChatBoxScrollbar.dll
+C:\Users\Paul\source\repos\Communication v1\TestAppClient\bin\Debug\Communication.dll
+C:\Users\Paul\source\repos\Communication v1\TestAppClient\bin\Debug\ContactList.dll
+C:\Users\Paul\source\repos\Communication v1\TestAppClient\bin\Debug\ContactListScrollbar.dll
+C:\Users\Paul\source\repos\Communication v1\TestAppClient\bin\Debug\Cryptography.dll
+C:\Users\Paul\source\repos\Communication v1\TestAppClient\bin\Debug\MessageBox.dll
+C:\Users\Paul\source\repos\Communication v1\TestAppClient\bin\Debug\MessageBox.pdb
+C:\Users\Paul\source\repos\Communication v1\TestAppClient\bin\Debug\ChatBox.pdb
+C:\Users\Paul\source\repos\Communication v1\TestAppClient\bin\Debug\ChatBoxScrollbar.pdb
+C:\Users\Paul\source\repos\Communication v1\TestAppClient\bin\Debug\Communication.pdb
+C:\Users\Paul\source\repos\Communication v1\TestAppClient\bin\Debug\ContactList.pdb
+C:\Users\Paul\source\repos\Communication v1\TestAppClient\bin\Debug\ContactListScrollbar.pdb
+C:\Users\Paul\source\repos\Communication v1\TestAppClient\bin\Debug\Cryptography.pdb
+C:\Users\Paul\source\repos\Communication v1\TestAppClient\obj\Debug\TestAppClient.csprojResolveAssemblyReference.cache
+C:\Users\Paul\source\repos\Communication v1\TestAppClient\obj\Debug\TestAppClient.ClientForm.resources
+C:\Users\Paul\source\repos\Communication v1\TestAppClient\obj\Debug\TestAppClient.Properties.Resources.resources
+C:\Users\Paul\source\repos\Communication v1\TestAppClient\obj\Debug\TestAppClient.csproj.GenerateResource.Cache
+C:\Users\Paul\source\repos\Communication v1\TestAppClient\obj\Debug\TestAppClient.csproj.CoreCompileInputs.cache
+C:\Users\Paul\source\repos\Communication v1\TestAppClient\obj\Debug\TestAppClient.exe
+C:\Users\Paul\source\repos\Communication v1\TestAppClient\obj\Debug\TestAppClient.pdb
+C:\Users\Paul\source\repos\Communication v1\TestAppClient\obj\Debug\TestAppClient.Resources.resources

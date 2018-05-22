@@ -1,0 +1,52 @@
+D:\programare\WPF\syncronized scrolls\CodeEditor\editor with vertical scrollbar\old, do not use\CodeEditor(no lineNumbering or extra lateral lines)\CodeEditor\bin\Debug\AdvancedHScrollbar.dll
+D:\programare\WPF\syncronized scrolls\CodeEditor\editor with vertical scrollbar\old, do not use\CodeEditor(no lineNumbering or extra lateral lines)\CodeEditor\bin\Debug\AdvancedVScrollbar.dll
+D:\programare\WPF\syncronized scrolls\CodeEditor\editor with vertical scrollbar\old, do not use\CodeEditor(no lineNumbering or extra lateral lines)\CodeEditor\bin\Debug\AdvancedHScrollbar.pdb
+D:\programare\WPF\syncronized scrolls\CodeEditor\editor with vertical scrollbar\old, do not use\CodeEditor(no lineNumbering or extra lateral lines)\CodeEditor\bin\Debug\AdvancedVScrollbar.pdb
+D:\programare\WPF\syncronized scrolls\CodeEditor\editor with vertical scrollbar\old, do not use\CodeEditor(no lineNumbering or extra lateral lines)\CodeEditor\obj\Debug\MessageBox.MessageBox.resources
+D:\programare\WPF\syncronized scrolls\CodeEditor\editor with vertical scrollbar\old, do not use\CodeEditor(no lineNumbering or extra lateral lines)\CodeEditor\obj\Debug\MessageBox.csproj.GenerateResource.Cache
+D:\programare\WPF\syncronized scrolls\CodeEditor\editor with vertical scrollbar\old, do not use\CodeEditor(no lineNumbering or extra lateral lines)\CodeEditor\bin\Debug\MessageBox.dll
+D:\programare\WPF\syncronized scrolls\CodeEditor\editor with vertical scrollbar\old, do not use\CodeEditor(no lineNumbering or extra lateral lines)\CodeEditor\bin\Debug\MessageBox.pdb
+D:\programare\WPF\syncronized scrolls\CodeEditor\editor with vertical scrollbar\old, do not use\CodeEditor(no lineNumbering or extra lateral lines)\CodeEditor\obj\Debug\MessageBox.Properties.Resources.resources
+D:\programare\WPF\syncronized scrolls\CodeEditor\editor with vertical scrollbar\old, do not use\CodeEditor(no lineNumbering or extra lateral lines)\CodeEditor\obj\Debug\MessageBox.dll
+D:\programare\WPF\syncronized scrolls\CodeEditor\editor with vertical scrollbar\old, do not use\CodeEditor(no lineNumbering or extra lateral lines)\CodeEditor\obj\Debug\MessageBox.pdb
+D:\programare\WPF\syncronized scrolls\CodeEditor\editor with vertical scrollbar\old, do not use\CodeEditor(no lineNumbering or extra lateral lines)\CodeEditor\obj\Debug\MessageBox.csprojResolveAssemblyReference.cache
+D:\programare\WPF\syncronized scrolls\CodeEditor\MessageBox\MessageBox\bin\Debug\MessageBox.dll
+D:\programare\WPF\syncronized scrolls\CodeEditor\MessageBox\MessageBox\bin\Debug\MessageBox.pdb
+D:\programare\WPF\syncronized scrolls\CodeEditor\MessageBox\MessageBox\bin\Debug\AdvancedVScrollbar.dll
+D:\programare\WPF\syncronized scrolls\CodeEditor\MessageBox\MessageBox\bin\Debug\AdvancedHScrollbar.pdb
+D:\programare\WPF\syncronized scrolls\CodeEditor\MessageBox\MessageBox\bin\Debug\AdvancedVScrollbar.pdb
+D:\programare\WPF\syncronized scrolls\CodeEditor\MessageBox\MessageBox\obj\Debug\MessageBox.csprojResolveAssemblyReference.cache
+D:\programare\WPF\syncronized scrolls\CodeEditor\MessageBox\MessageBox\obj\Debug\MessageBox.MessageBox.resources
+D:\programare\WPF\syncronized scrolls\CodeEditor\MessageBox\MessageBox\obj\Debug\MessageBox.Properties.Resources.resources
+D:\programare\WPF\syncronized scrolls\CodeEditor\MessageBox\MessageBox\obj\Debug\MessageBox.csproj.GenerateResource.Cache
+D:\programare\WPF\syncronized scrolls\CodeEditor\MessageBox\MessageBox\obj\Debug\MessageBox.dll
+D:\programare\WPF\syncronized scrolls\CodeEditor\MessageBox\MessageBox\obj\Debug\MessageBox.pdb
+D:\programare\internet break\ChatBox\MessageBox\bin\Debug\MessageBox.dll
+D:\programare\internet break\ChatBox\MessageBox\bin\Debug\MessageBox.pdb
+D:\programare\internet break\ChatBox\MessageBox\obj\Debug\MessageBox.MessageBox.resources
+D:\programare\internet break\ChatBox\MessageBox\obj\Debug\MessageBox.Properties.Resources.resources
+D:\programare\internet break\ChatBox\MessageBox\obj\Debug\MessageBox.csproj.GenerateResource.Cache
+D:\programare\internet break\ChatBox\MessageBox\obj\Debug\MessageBox.dll
+D:\programare\internet break\ChatBox\MessageBox\obj\Debug\MessageBox.pdb
+D:\programare\internet break\ChatBox\MessageBox\bin\Debug\ChatBoxScrollbar.dll
+D:\programare\internet break\ChatBox\MessageBox\bin\Debug\ChatBoxScrollbar.pdb
+D:\programare\PROJECT ALIEN MERCURY\SharedDoc\MessageBox\bin\Debug\MessageBox.dll
+D:\programare\PROJECT ALIEN MERCURY\SharedDoc\MessageBox\bin\Debug\MessageBox.pdb
+D:\programare\PROJECT ALIEN MERCURY\SharedDoc\MessageBox\bin\Debug\ChatBoxScrollbar.dll
+D:\programare\PROJECT ALIEN MERCURY\SharedDoc\MessageBox\bin\Debug\ChatBoxScrollbar.pdb
+D:\programare\PROJECT ALIEN MERCURY\SharedDoc\MessageBox\obj\Debug\MessageBox.MessageBox.resources
+D:\programare\PROJECT ALIEN MERCURY\SharedDoc\MessageBox\obj\Debug\MessageBox.Properties.Resources.resources
+D:\programare\PROJECT ALIEN MERCURY\SharedDoc\MessageBox\obj\Debug\MessageBox.csproj.GenerateResource.Cache
+D:\programare\PROJECT ALIEN MERCURY\SharedDoc\MessageBox\obj\Debug\MessageBox.dll
+D:\programare\PROJECT ALIEN MERCURY\SharedDoc\MessageBox\obj\Debug\MessageBox.pdb
+C:\Users\Paul\source\repos\Communication v1\MessageBox\bin\Debug\MessageBox.dll
+C:\Users\Paul\source\repos\Communication v1\MessageBox\bin\Debug\MessageBox.pdb
+C:\Users\Paul\source\repos\Communication v1\MessageBox\bin\Debug\ChatBoxScrollbar.dll
+C:\Users\Paul\source\repos\Communication v1\MessageBox\bin\Debug\ChatBoxScrollbar.pdb
+C:\Users\Paul\source\repos\Communication v1\MessageBox\obj\Debug\MessageBox.MessageBox.resources
+C:\Users\Paul\source\repos\Communication v1\MessageBox\obj\Debug\MessageBox.Properties.Resources.resources
+C:\Users\Paul\source\repos\Communication v1\MessageBox\obj\Debug\MessageBox.csproj.GenerateResource.Cache
+C:\Users\Paul\source\repos\Communication v1\MessageBox\obj\Debug\MessageBox.csproj.CoreCompileInputs.cache
+C:\Users\Paul\source\repos\Communication v1\MessageBox\obj\Debug\MessageBox.dll
+C:\Users\Paul\source\repos\Communication v1\MessageBox\obj\Debug\MessageBox.pdb
+C:\Users\Paul\source\repos\Communication v1\MessageBox\obj\Debug\MessageBox.csprojResolveAssemblyReference.cache
